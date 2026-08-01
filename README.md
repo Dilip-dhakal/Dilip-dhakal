@@ -21,13 +21,10 @@ Currently learning and building production-ready applications with modern web te
 
 ### Frontend
 React • Next.js • TypeScript • Tailwind CSS • Vite
-
 ### Backend
 Node.js • Express.js • Django • Django REST Framework
-
 ### Database
 PostgreSQL • Prisma • MySQL • MongoDB
-
 ### Tools
 Git • Docker • Postman • Redis • Render • Vercel
 
@@ -40,6 +37,18 @@ Git • Docker • Postman • Redis • Render • Vercel
 
 ---
 
+---
+
 ## GitHub Stats
 
-![Dilip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilip-dhakal&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dilip-dhakal&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip-dhakal&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilip-dhakal&theme=github-compact" />
+</p>
