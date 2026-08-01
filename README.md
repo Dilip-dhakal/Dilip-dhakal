@@ -42,13 +42,13 @@ Git • Docker • Postman • Redis • Render • Vercel
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilip-dhakal&show_icons=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dilip-dhakal&show_icons=true&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip-dhakal&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip-dhakal&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilip-dhakal&theme=github-compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip-dhakal&layout=compact&hide_border=true"/>
 </p>
