@@ -13,7 +13,7 @@ Currently learning and building production-ready applications with modern web te
 - Backend Focus: REST APIs, Authentication, Clean Architecture, Database Design
 - Learning: System Design and Scalable Backend Development
 
-  ## Tech Stack
+## Tech Stack
 
 ### Frontend
 React • Next.js • TypeScript • Tailwind CSS • Vite
