@@ -37,12 +37,10 @@ Git • Docker • Postman • Redis • Render • Vercel
 
 ---
 
----
-
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dilip-dhakal&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dilip-dhakal&show_icons=true&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -50,5 +48,5 @@ Git • Docker • Postman • Redis • Render • Vercel
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip-dhakal&layout=compact&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dilip-dhakal&layout=compact&hide_border=true"/>
 </p>
