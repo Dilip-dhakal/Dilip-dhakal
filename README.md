@@ -10,7 +10,7 @@ Currently learning and building production-ready applications with modern web te
 
 ## About Me
 
-- 🔭 Currently Building: Finance Management System Backend during internship
+- 🔭 Currently Building: Notification delivery platform that enables applications to send notifications through multiple channels (Email, SMS, Push, etc.) without worrying about delivery, retries, scheduling, or failures.
 - 💻 Core Stack: TypeScript, Node.js, Express, Prisma, PostgreSQL, React, Next.js
 - ⚙️ Backend Focus: REST APIs, Authentication, Clean Architecture, Database Design
 - 📚 Learning: System Design and Scalable Backend Development
