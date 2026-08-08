@@ -108,7 +108,7 @@ A backend-heavy system for reliably delivering notifications across Email, SMS, 
 <a href="https://www.linkedin.com/in/dilip-dhakal-05ab853a2/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:lamjung0088@gmail.com">
+<a href="mailto:ffxkoshish@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
